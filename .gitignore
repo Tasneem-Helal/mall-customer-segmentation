@@ -1,0 +1,13 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary and cache files
+__pycache__/
+*.pyc
+
+# Dataset or output files
+*.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
