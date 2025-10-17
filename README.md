@@ -57,4 +57,5 @@ DBSCAN produced slightly better clustering performance, though with more noise p
 
 ## Author
 **Tasneem Helal**  
-Mechatronics Engineer
+Mechatronics Engineer | Machine Learning Enthusiast  
+[LinkedIn](https://linkedin.com/in/tasneemhelal) | [GitHub](https://github.com/Tasneem-Helal)
