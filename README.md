@@ -31,7 +31,7 @@ Compare K-Means and DBSCAN clustering performance using the Silhouette Score to 
 ---
 
 ## Results
-- **K-Means Silhouette Score:** ~0.55  
+- **K-Means Silhouette Score:** ~0.44  
 - **DBSCAN Silhouette Score:** ~0.58  
 
 DBSCAN produced slightly better clustering performance, though with more noise points (marked in red on plots).
