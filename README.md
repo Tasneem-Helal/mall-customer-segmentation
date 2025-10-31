@@ -49,9 +49,7 @@ DBSCAN produced slightly better clustering performance, though with more noise p
    pip install -r ../requirements.txt
    ```
 3. Run the notebook:
-   ```bash
-   jupyter notebook src/mall_customer_clustering.ipynb
-   ```
+   > Open `mall_customer_clustering.ipynb` from the `src` folder and execute the cells sequentially.
 
 ---
 
