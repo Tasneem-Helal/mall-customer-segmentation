@@ -41,8 +41,8 @@ DBSCAN produced slightly better clustering performance, though with more noise p
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone https://github.com/Tasneem-Helal/mall-customer-segmentation.git
+   cd mall-customer-segmentation/src
    ```
 2. Install dependencies:
    ```bash
