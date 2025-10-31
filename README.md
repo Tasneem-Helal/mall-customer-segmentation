@@ -46,7 +46,7 @@ DBSCAN produced slightly better clustering performance, though with more noise p
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r ../requirements.txt
    ```
 3. Run the notebook:
    ```bash
